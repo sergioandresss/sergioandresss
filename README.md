@@ -16,21 +16,20 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas que manejo:
+### 🛠️ Tecnología que manejo:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,github,mysql,postgresql,linux,docker&perline=5" alt="Skills Icons">
+  <img src="https://skillicons.dev/icons?i=python&perline=4" alt="Python">
 </p>
 
 ---
 
-### 🌱 Actualmente aprendiendo:
+### 🏆 Mis Certificados:
 
-<p align="center">
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1b31c35bdd85dba03e178/topics/react/react.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1b31c35bdd85dba03e178/topics/nodejs/nodejs.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1b31c35bdd85dba03e178/topics/spring/spring.png"></code>
-</p>
+Aquí puedes ver algunos de los certificados que he obtenido:
+
+* **[Certificado de Introducción a la IA para usuarios profesionales - Microsoft Learn]([https://www.enlace-a-tu-certificado-1.com](https://learn.microsoft.com/es-es/users/muozescobedosergioa-4234/achievements/print/w2zk3d7n?tab=tab-learning-paths))**
+* **[Certificado de Introducción a IoT de Azure - Microsoft Leran]([https://www.enlace-a-tu-certificado-2.com](https://learn.microsoft.com/es-es/users/muozescobedosergioa-4234/achievements/print/zka64rl2?tab=tab-modules))**
 
 ---
 
