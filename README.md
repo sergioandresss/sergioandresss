@@ -28,8 +28,8 @@
 
 Aquí puedes ver algunos de los certificados que he obtenido:
 
-* **[Certificado de Introducción a la IA para usuarios profesionales - Microsoft Learn]([https://www.enlace-a-tu-certificado-1.com](https://learn.microsoft.com/es-es/users/muozescobedosergioa-4234/achievements/print/w2zk3d7n?tab=tab-learning-paths))**
-* **[Certificado de Introducción a IoT de Azure - Microsoft Learn]([https://www.enlace-a-tu-certificado-2.com](https://learn.microsoft.com/es-es/users/muozescobedosergioa-4234/achievements/print/zka64rl2?tab=tab-modules))**
+* **[Certificado de Introducción a la IA para usuarios profesionales - Microsoft Learn](https://learn.microsoft.com/es-es/users/muozescobedosergioa-4234/achievements/print/w2zk3d7n?tab=tab-learning-paths)**
+* **[Certificado de Introducción a IoT de Azure - Microsoft Learn](https://learn.microsoft.com/es-es/users/muozescobedosergioa-4234/achievements/print/zka64rl2?tab=tab-modules)**
 
 ---
 
